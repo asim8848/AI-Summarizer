@@ -1,0 +1,2 @@
+# AI-Summerizer
+  Introducing Summize, a powerful open-source application that utilizes the cutting-edge OpenAI GPT-4 technology to revolutionize the way you read articles. With Summize, lengthy and complex articles are transformed into clear and concise summaries, saving you valuable time and effort. Say goodbye to information overload and hello to simplified reading. Experience the future of article summarization with Summize.
